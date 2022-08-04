@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Sample1() {
   return (
     <div>
